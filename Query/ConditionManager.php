@@ -79,4 +79,8 @@ class ConditionManager implements \ArrayAccess, \Iterator
     public function valid() {
         return key($this->conditions) !== null;
     }
+
+    public function gitTest() {
+        /* Tohle nic nedělá, je to jen pokus */
+    }
 }
