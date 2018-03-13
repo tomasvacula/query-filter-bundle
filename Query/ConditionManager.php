@@ -82,6 +82,6 @@ class ConditionManager implements \ArrayAccess, \Iterator
 
     public function gitTest() {
         /* Tohle opravdu nic nedělá, je to možná jen pokus */
-
+        /* opravdu */
     }
 }

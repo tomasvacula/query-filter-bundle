@@ -40,4 +40,8 @@ class QueryResult
     {
         return $this->totalRows;
     }
+
+    public function gitTest2() {
+        /* dalsi pokus */
+    }
 }
